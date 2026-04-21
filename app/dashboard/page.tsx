@@ -6,7 +6,7 @@ import { supabase } from '../../lib/supabase'
 type Page = 'dashboard' | 'objekte' | 'mieter' | 'vertraege' | 'aufgaben'
 
 const OBJEKTE = [
-  { id:1, name:'Gartenstr. 12', ort:'Düsseldorf-Pempelfort', typ:'MFH', einheiten:8, vermietet:8, miete:6240 },
+  { id:1, name:'Königsberger Straße 1', ort:'Düsseldorf-Pempelfort', typ:'MFH', einheiten:8, vermietet:8, miete:6240 },
   { id:2, name:'Rathausplatz 4', ort:'Meerbusch', typ:'EFH', einheiten:1, vermietet:0, miete:0 },
   { id:3, name:'Kaiserswerther Str. 88', ort:'Düsseldorf-Kaiserswerth', typ:'WEG', einheiten:6, vermietet:6, miete:4980 },
   { id:4, name:'Luisenstr. 7', ort:'Neuss-Hammfeld', typ:'MFH', einheiten:9, vermietet:8, miete:7420 },
