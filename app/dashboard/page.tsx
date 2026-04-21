@@ -83,8 +83,8 @@ export default function Dashboard() {
         <div style={s.logoWrap}>
           <div style={s.logoIcon}>F</div>
           <div>
-            <div style={s.logoTitle}>Frenken</div>
-            <div style={s.logoSub}>Immobilien</div>
+            <div style={s.logoTitle}>FRENKEN</div>
+            <div style={s.logoSub}>Immobilien GmbH</div>
           </div>
         </div>
         <nav style={s.nav}>
